@@ -11,7 +11,7 @@ class Example(QtGui.QWidget):
 
     def initUI(self):
 
-        label = QtGui.QLabel('Hello World!', self)
+        label = QtGui.QLabel('Hello World 3!', self)
 
         self.setGeometry(300, 300, 250, 150)
         self.setWindowTitle('Janela')
